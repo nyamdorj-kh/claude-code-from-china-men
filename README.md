@@ -214,6 +214,8 @@ const ENABLED_FEATURES = new Set([
 
 If this helps your research, please give it a ⭐!
 
-## Star History
+## Fork History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=beita6969/claude-code,instructkr/claude-code&type=Date)](https://star-history.com/#beita6969/claude-code&instructkr/claude-code&Date)
+[![Forks](https://img.shields.io/github/forks/beita6969/claude-code?style=for-the-badge&color=blue&label=Forks)](https://github.com/beita6969/claude-code/network/members)
+
+[![Star History Chart](https://api.star-history.com/svg?repos=beita6969/claude-code&type=Date)](https://star-history.com/#beita6969/claude-code&Date)
